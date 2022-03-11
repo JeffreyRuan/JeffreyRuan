@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeffreyRuan
 - 👀 I’m interested in video games, musics and programming
-- 🌱 I’m currently learning data structure, game development and C#
+- 🌱 I’m currently learning CS courses
 - 📫 How to reach me: <sparrowking002@gmail.com>
 
 <!---
